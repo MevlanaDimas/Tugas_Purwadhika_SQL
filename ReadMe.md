@@ -1,4 +1,4 @@
-![header](github-header.png)
+![header](github-header-image.png)
 
 ## About
 Assignment for Module 2 using SQL.
